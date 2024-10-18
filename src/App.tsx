@@ -11,7 +11,7 @@ function App() {
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">Text Reversal App</h1>
         <div className="mb-4">
           <label htmlFor="inputText" className="block text-sm font-medium text-gray-700 mb-2">
-            Enter your text:
+            Enter your text here  :
           </label>
           <input
             type="text"
